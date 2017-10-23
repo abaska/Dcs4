@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/Dcs4/v15/ipch/AutoPCH/ffeeb212/MAIN-2001ac63/MAIN.ipch
+/.vs/Dcs4/v15/Browse.VC.opendb
+/.vs/Dcs4/v15/Browse.VC.db
+/.vs/Dcs4/v15/.suo
